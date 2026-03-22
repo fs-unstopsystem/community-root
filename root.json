@@ -1,7 +1,0 @@
-{
-  "community": "Freesmith",
-  "author_id": "auth_freesmith",
-  "root_repository": "community-root",
-  "verification_model": "hash + signature + lineage",
-  "scope": ["root", "shared"]
-}
